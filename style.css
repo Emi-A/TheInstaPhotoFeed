@@ -1,0 +1,14 @@
+
+body{
+    background: grey;
+}
+.first{
+    justify-content: center;
+}
+.second{
+   background-color:white;
+   margin-top: 50px;
+}
+.title{
+    text-align: center;
+}
